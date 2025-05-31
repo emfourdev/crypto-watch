@@ -49,11 +49,6 @@ dogecoin → $0.18 USD
 
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** — see the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html) for details.
 
-## 👤 Author
-
-**Jane Developer**  
-📧 n.poulter@unsw.edu.au 
-🌐 [https://github.com/emfourdev](https://github.com/emfourdev)
 
 ---
 
