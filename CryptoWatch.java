@@ -8,7 +8,7 @@ public class CryptoWatch {
     public static void main(String[] args) {
         if (args.length == 0) {
             System.out.println("Usage: java CryptoWatch [coin_id...]");
-            System.out.println("Example: java CryptoWatch bitcoin ethereum");
+            System.out.println("Example: java CryptoWatch bitcoin");
             return;
         }
 
